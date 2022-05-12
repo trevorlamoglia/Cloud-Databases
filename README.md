@@ -12,7 +12,7 @@
 
 # Cloud Database
 
-{Describe the cloud database you are using.}
+Cloud Firestore is a flexible, scalable database for mobile, web, and server development from Firebase and Google Cloud.Like Firebase Realtime Database, it keeps your data in sync across client apps through realtime listeners and offers offline support for mobile and web so you can build responsive apps that work regardless of network latency or Internet connectivity.
 
 {Describe the structure of the database that you created.}
 
@@ -25,12 +25,10 @@
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Firebase](https://firebase.google.com/docs/firestore)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Fix remove_dish function
+* Fix update_dish function
