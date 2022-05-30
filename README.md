@@ -4,7 +4,7 @@ This is my Cloud Databases learning project. My intent was to learn and hone my 
 
 The purpose of writing this software is to create a database of Filipino food and where the best city/town in the Philippines you can get it from.
 
-[Software Demo Video](http://youtube.link.goes.here)
+<!-- [Software Demo Video](http://youtube.link.goes.here) -->
 
 # Cloud Database
 
