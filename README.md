@@ -25,12 +25,10 @@ Cloud Firestore is a flexible, scalable database for mobile, web, and server dev
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Firebase](https://firebase.google.com/docs/firestore)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Fix remove_dish function
 * Fix update_dish function
 
